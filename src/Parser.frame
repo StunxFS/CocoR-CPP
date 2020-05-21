@@ -99,6 +99,7 @@ Parser.cpp Specification
 -->begin
 
 #include <wchar.h>
+#include <cstdio>
 #include "Parser.h"
 #include "Scanner.h"
 
